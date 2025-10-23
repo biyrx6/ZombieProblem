@@ -3,7 +3,6 @@
 """
 Created on Thu Oct 23 2025
 
-@author: ruixu
 """
 
 #!/usr/bin/env python3
